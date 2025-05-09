@@ -1,6 +1,5 @@
 import requests
 
-# 🔐 Paste your Hunter.io API key here
 HUNTER_API_KEY = "79fc44642dec846afa2a11b65f58147aebe50bfd"
 
 def get_domain_from_organization(organization):
