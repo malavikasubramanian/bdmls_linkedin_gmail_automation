@@ -42,7 +42,7 @@ All through a simple and interactive Streamlit interface.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RSaivarsha/LinkedIn_Email_Automation.git
+git clone https://github.com/malavikasubramanian/bdmls_linkedin_gmail_automation.git
 cd LinkedIn_Email_Automation
 
 ```
